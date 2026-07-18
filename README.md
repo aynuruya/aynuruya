@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there, I'm Avnoor Verma! 👋
 
-<!--
-**aynuruya/aynuruya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌸 Finance Graduate | Business Analytics | Marketing Analytics | SEO Practitioner | AI Explorer
 
-Here are some ideas to get you started:
+I'm passionate about solving business problems through data, analytics, SEO, and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm building practical projects that combine finance, marketing, and technology while continuously learning and sharing my journey.
+
+---
+
+## 🌱 Currently Learning
+
+- 📊 Microsoft Excel
+- 🗄 SQL
+- 📈 Power BI
+- 🐍 Python
+- 🤖 AI for Business
+- 📢 Marketing Analytics
+
+---
+
+## 🚀 Current Goals
+
+- Build a strong Business Analytics portfolio
+- Create real-world Finance & Marketing Analytics projects
+- Explore AI-powered business solutions
+- Document my learning consistently on GitHub & LinkedIn
+
+---
+
+## 🛠️ Skills
+
+Finance • Business Analytics • SEO • Excel • SQL • Power BI • Python • AI • Digital Marketing
+
+---
+
+## 📫 Connect with Me
+
+💼 LinkedIn: www.linkedin.com/in/avnoorvermaa
+
+📧 Email: avnoorvermaa@gmail.com
+
+⭐ Thanks for visiting my profile!
