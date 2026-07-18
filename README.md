@@ -2,7 +2,7 @@
 
 ### 🌸 Business & Data Analytics | SEO Practitioner | Building AI-Powered Solutions
 
-I'm passionate about solving business problems through data, analytics, SEO, and AI.
+I'm building practical skills in business analytics, marketing analytics, SEO, and AI through real-world projects and continuous learning.
 
 Currently, I'm building practical projects that combine finance, marketing, and technology while continuously learning and sharing my journey.
 
