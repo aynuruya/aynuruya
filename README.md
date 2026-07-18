@@ -6,6 +6,7 @@ I'm passionate about solving business problems through data, analytics, SEO, and
 
 Currently, I'm building practical projects that combine finance, marketing, and technology while continuously learning and sharing my journey.
 
+I believe great business decisions happen when finance, marketing, and data work together.
 ---
 
 ## 🌱 Currently Learning
