@@ -2,9 +2,7 @@
 
 ### 🌸 Business & Data Analytics | SEO Practitioner | Building AI-Powered Solutions
 
-I'm building practical skills in business analytics, marketing analytics, SEO, and AI through real-world projects and continuous learning.
-
-Currently, I'm building practical projects that combine finance, marketing, and technology while continuously learning and sharing my journey.
+I'm building practical skills in business analytics, marketing analytics, SEO, and AI through real-world projects while continuous learning and sharing my journey.
 
 I believe great business decisions happen when finance, marketing, and data work together.
 ---
@@ -23,7 +21,7 @@ I believe great business decisions happen when finance, marketing, and data work
 ## 🚀 Current Goals
 
 - Build a strong Business Analytics portfolio
-- Create real-world Finance & Marketing Analytics projects
+- Build real-world Business & Marketing Analytics projects
 - Explore AI-powered business solutions
 - Document my learning consistently on GitHub & LinkedIn
 
@@ -31,8 +29,7 @@ I believe great business decisions happen when finance, marketing, and data work
 
 ## 🛠️ Skills
 
-Finance • Business Analytics • SEO • Excel • SQL • Power BI • Python • AI • Digital Marketing
-
+Business Analytics • Marketing Analytics • SEO • Excel • SQL • Power BI • Python • AI • Digital Marketing • Git & GitHub
 ---
 
 ## 📫 Connect with Me
