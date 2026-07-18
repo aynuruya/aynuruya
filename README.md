@@ -1,6 +1,6 @@
 # Hi there, I'm Avnoor Verma! 👋
 
-### 🌸 Finance Graduate | Business Analytics | Marketing Analytics | SEO Practitioner | AI Explorer
+### 🌸 Business & Data Analytics | SEO Practitioner | Building AI-Powered Solutions
 
 I'm passionate about solving business problems through data, analytics, SEO, and AI.
 
