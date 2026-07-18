@@ -1,6 +1,6 @@
 # Hi there, I'm Avnoor Verma! 👋
 
-### 🌸 Business & Data Analytics | SEO Practitioner | Building AI-Powered Solutions
+### 🌸 Business & Marketing Analytics | SEO Practitioner | Building AI-Powered Solutions
 
 I'm building practical skills in business analytics, marketing analytics, SEO, and AI through real-world projects while documenting my learning journey.
 
@@ -22,14 +22,14 @@ I believe great business decisions happen when finance, marketing, and data work
 
 - Build a strong Business Analytics portfolio
 - Build real-world Business & Marketing Analytics projects
-- Explore AI-powered business solutions
+- Build AI-powered business solutions
 - Document my learning consistently on GitHub & LinkedIn
 
 ---
 
 ## 🛠️ Skills
 
-Business Analytics • Marketing Analytics • SEO • Excel • SQL • Power BI • Python • AI • Digital Marketing • Git & GitHub
+Business Analytics • Marketing Analytics • SEO • Excel • SQL • Power BI • Python • AI • Digital Marketing • GA4 • Google Search Console • WordPress • Git & GitHub
 ---
 
 ## 📫 Connect with Me
