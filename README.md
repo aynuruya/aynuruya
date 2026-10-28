@@ -1,13 +1,13 @@
 # Hi there, I'm Avnoor Verma! 👋
 
-### 🌸 Business & Marketing Analytics | SEO Practitioner | Building AI-Powered Solutions
+### Business & Marketing Analytics | SEO Practitioner | Building AI-Powered Solutions
 
 I'm building practical skills in business analytics, marketing analytics, SEO, and AI through real-world projects while documenting my learning journey.
 
 I believe great business decisions happen when finance, marketing, and data work together.
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - 📊 Microsoft Excel
 - 🗄 SQL
